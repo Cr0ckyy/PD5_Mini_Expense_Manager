@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944016027161",
+    "firebase_url": "https://jobby-764b5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jobby-764b5",
+    "storage_bucket": "jobby-764b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944016027161:android:b6d70745e7867e91ec4488",
+        "android_client_info": {
+          "package_name": "com.myapplicationdev.android.jobby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944016027161-3p4dvpoq4b90qm9dik5glvfs6t8nk3cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4-V4YuY7Mc5EOLL5GWkte9MRTMjA8mxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944016027161-3p4dvpoq4b90qm9dik5glvfs6t8nk3cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
